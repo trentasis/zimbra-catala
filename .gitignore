@@ -1,0 +1,7 @@
+
+
+*.pot
+*.po
+*.mo
+*_en.properties
+
